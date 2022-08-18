@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Weather Forecast</string>
+    <string name="_45">45º</string>
+    <string name="feels_like_50">Feels Like: 50º</string>
+    <string name="feels_like">Feels Like: </string>
+    <string name="deg">º</string>
+    <string name="namehere">City</string>
+    <string name="new_york">New York</string>
+</resources>
